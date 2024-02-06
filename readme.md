@@ -45,6 +45,10 @@
 </p>
 <br />
 
+<p align="center">
+    <img src = "https://discord.c99.nl/widget/theme-1/362778559644696586.png">
+</p>
+
 <!-- About Section -->
 
 <!-- # About me
