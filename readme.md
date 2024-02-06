@@ -21,13 +21,12 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Reiaslite.com">Reiaslite</a></b>
+                <b><a target="_blank" href="https://github.com/Reiaslite">Reiaslite</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Indonesia</b> 」
     <br>
@@ -79,8 +78,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
-
 <!-- ## Top Open Source -
 
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Reiaslite&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Reiaslite/itasks)
@@ -91,7 +88,6 @@
 <!-- <p align="left">
   <a href="https://github.com/Reiaslite?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p> -->
-
 <br/>
 <hr/>
 <br/>
