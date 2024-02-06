@@ -29,7 +29,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
@@ -71,8 +71,6 @@
 
 </p> -->
 
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
