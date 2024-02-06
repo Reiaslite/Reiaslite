@@ -77,6 +77,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-8a93be?style=for-the-badge&logo=php&logoColor=232531)
+![Laravel](https://img.shields.io/badge/laravel-fb5542?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter4-fb5542?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 <!-- ## Top Open Source -
 
