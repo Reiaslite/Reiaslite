@@ -1,20 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Reiaslite World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/Reiaslite"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-
-<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -47,18 +30,6 @@
 
 <!-- About Section -->
 
-<!-- # About me
-
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Reiaslite.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Reiaslite/Reiaslite/issues)
-
-</p> -->
-
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -78,16 +49,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-fb5542?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter4-e04d08?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-<!-- ## Top Open Source -
-
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Reiaslite&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Reiaslite/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Reiaslite&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Reiaslite/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Reiaslite&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Reiaslite/web-projects)
-[![Reiaslite Readme](https://github-readme-stats.vercel.app/api/pin/?username=Reiaslite&repo=Reiaslite&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Reiaslite/Reiaslite) -->
-
-<!-- <p align="left">
-  <a href="https://github.com/Reiaslite?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p> -->
 <br/>
 <hr/>
 <br/>
