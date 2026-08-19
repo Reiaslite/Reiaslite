@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/Reiaslite">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reiaslite&theme=radical&border=7F3FBF&background=0D1117" alt="Rai's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reiaslite&exclude_days=Sun&theme=radical&border=7F3FBF&background=0D1117" alt="Rai's GitHub streak"/>
   </a>
 </p>
 
