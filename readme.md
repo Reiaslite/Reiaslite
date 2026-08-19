@@ -68,6 +68,10 @@
       <img alt="Rai's GitHub streak" src="https://streak-stats.demolab.com/?user=Reiaslite&exclude_days=Sun&background=0B0B0B&border=CD9C20&stroke=333533&ring=F5CB5C&fire=CD9C20&currStreakNum=F2ECDD&sideNums=F5CB5C&currStreakLabel=F5CB5C&sideLabels=F2ECDD&dates=F2ECDD" height="180em"/>
       <!-- Github Stats -->
       <img alt="Reiaslite's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Reiaslite&show_icons=true&count_private=true&border_color=CD9C20&bg_color=0B0B0B&title_color=F5CB5C&text_color=F2ECDD&icon_color=CD9C20&ring_color=F5CB5C" height="180em"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/Reiaslite">
       <!-- Github Profile Details -->
       <img alt="Reiaslite's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reiaslite&theme=github_dark&bg_color=0B0B0B&border_color=CD9C20&title_color=F5CB5C&text_color=F2ECDD&icon_color=CD9C20&chart_color=F5CB5C" height="180em"/>
       <!-- Github Top Languages -->
@@ -78,6 +82,6 @@
 <p align="center">
   <a href="https://github.com/Reiaslite">
     <!-- Github Activity -->
-    <img alt="Reiaslite's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Reiaslite&custom_title=Reiaslite%27s%20GitHub%20Activity%20Graph&bg_color=0B0B0B&border_color=CD9C20&color=F2ECDD&line=F5CB5C&point=CD9C20&area_color=333533&title_color=F5CB5C&area=true" width="75%"/>
+    <img alt="Reiaslite's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Reiaslite&custom_title=Reiaslite%27s%20GitHub%20Activity%20Graph&bg_color=0B0B0B&border_color=CD9C20&color=F2ECDD&line=F5CB5C&point=CD9C20&area_color=333533&title_color=F5CB5C&area=true" width="85%"/>
   </a>
 </p>
