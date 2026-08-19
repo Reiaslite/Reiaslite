@@ -81,8 +81,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Reiaslite">
-    <!-- Github Activity -->
-    <img alt="Reiaslite's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Reiaslite&custom_title=Reiaslite%27s%20GitHub%20Activity%20Graph&bg_color=0B0B0B&border_color=CD9C20&color=F2ECDD&line=F5CB5C&point=CD9C20&area_color=333533&title_color=F5CB5C&area=true" width="85%"/>
-  </a>
+  <!-- Github Activity -->
+  <img alt="Reiaslite's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Reiaslite&custom_title=Reiaslite%27s%20GitHub%20Activity%20Graph&bg_color=0B0B0B&border_color=CD9C20&color=F2ECDD&line=F5CB5C&point=CD9C20&area_color=333533&title_color=F5CB5C&area=true" width="90%"/>
 </p>
